@@ -1,5 +1,5 @@
 # Godot-audio-manager
-The files from my audio manager tutorial 
+The files from my audio manager tutorial (the project is in the 7z file)
 
 # How to use the audio manager:
 1. add the audio manager scene as a singelton in your project
